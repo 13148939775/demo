@@ -1,0 +1,14 @@
+{
+    "name": "13148939775/demo",
+    "description": "a test for composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HueGo",
+            "email": "w1077@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
